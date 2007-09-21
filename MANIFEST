@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Game-Hack-Live.t
+lib/Game/Hack/Live.pm
+GPL-3

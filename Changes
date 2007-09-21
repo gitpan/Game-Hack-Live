@@ -1,0 +1,6 @@
+Revision history for Perl extension Game::Hack::Live.
+
+0.3  Tue Sep 18 15:57:37 2007
+	- first published version;
+	- supports finding/killing integer values.
+
